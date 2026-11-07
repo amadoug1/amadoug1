@@ -2,7 +2,7 @@
 
 Full-stack developer in Philadelphia. I'm finishing my B.A. at the University of Pennsylvania (Science, Technology & Society, CS minor, December 2026) and run [DoDigital Tech](https://dodigitaltech.com), where I build and maintain production websites for small businesses.
 
-Before that I spent three years in IT support at Wharton, Tech Impact and Temple Health, so I care a lot about software that keeps working after launch.
+Before that I spent four years in IT support at Wharton, Tech Impact and Temple Health, so I care a lot about software that keeps working after launch.
 
 ## Things I've built
 
